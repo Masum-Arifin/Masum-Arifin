@@ -13,7 +13,7 @@
 <a href="https://twitter.com/alvinalmaktum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alvinalmaktum" height="30" width="40" /></a>
 <a href="https://fb.com/sheikh.masumaeifin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sheikh.masumaeifin" height="30" width="40" /></a>
 <a href="https://instagram.com/shaykh_alvin_al_mktum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaykh_alvin_al_mktum" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abdullah-al-masumbd" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="shaykh_alvin_al_mktum" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdullah-al-masumbd" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="shaykh_alvin_al_mktum" height="30" width="30" /></a>
 
 </p>
 
