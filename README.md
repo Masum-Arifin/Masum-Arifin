@@ -6,6 +6,8 @@
 <br />
 <br />
 
+<a href="https://app.daily.dev/Masum Arifin"><img src="https://api.daily.dev/devcards/af4e49452b1c49ff9bf84f65ff812206.png?r=d6d" width="400" alt="Masum Arifin's Dev Card"/></a>
+
 [![Github](https://img.shields.io/github/followers/Masum-Arifin?label=Follow&style=social)](https://github.com/Masum-Arifin)&nbsp;![Profile views](https://gpvc.arturio.dev/Masum-Arifin)
 
 🌱 I’m currently learning [Golang](https://golang.org/) And [DevOps](https://www.google.com/search?q=DevOps)
