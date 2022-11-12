@@ -25,14 +25,11 @@
 📫 How to reach me: masumarifinbd@gmail.com
 
 ⚡ Fun fact **I Think i'm funny too :)**
-
 #### :muscle: Things I am challenging myself with:
 
 - Waking up earlier to make good use of the day
 - Coding at least 4 hours a day
 - Exercising 3 days a week
-- Improving my CV with some education apart from university
-
 <br />
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Technologies that I know</h2>
