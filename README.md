@@ -9,8 +9,7 @@
 <br />
 <br />
 
-
-<a align="center" href="https://app.daily.dev/Masum"><img src="https://api.daily.dev/devcards/af4e49452b1c49ff9bf84f65ff812206.png?r=j1n" width="400" alt="Masum Arifin's Dev Card"/></a>
+<p align="center"><a href="https://app.daily.dev/Masum"><img src="https://api.daily.dev/devcards/af4e49452b1c49ff9bf84f65ff812206.png?r=j1n" width="400" alt="Masum Arifin's Dev Card"/></a></p>
 
 [![Github](https://img.shields.io/github/followers/Masum-Arifin?label=Follow&style=social)](https://github.com/Masum-Arifin)&nbsp;![Profile views](https://gpvc.arturio.dev/Masum-Arifin)
 
