@@ -7,7 +7,6 @@
 
 <h3 align="center">Web Specialist</h3>
 <br />
-<br />
 <p align="center"><img src="https://img.shields.io/github/followers/Masum-Arifin?label=Follow&style=social"/>
 <img src="https://komarev.com/ghpvc/?username=Masum-Arifin&label=Profile%20views&color=0e75b6&style=flat" alt="Masum-Arifin" /></p>
 
@@ -15,6 +14,8 @@
 <!-- <p>[![Github]()](https://github.com/Masum-Arifin)&nbsp;![Profile views](https://gpvc.arturio.dev/Masum-Arifin)</p> -->
 
 <p align="center"><a href="https://app.daily.dev/Masum"><img src="https://api.daily.dev/devcards/af4e49452b1c49ff9bf84f65ff812206.png?r=j1n" width="400" alt="Masum Arifin's Dev Card"/></a></p>
+
+<img align="right" width="400" src="https://raw.githubusercontent.com/Masum-Arifin/Masum-Arifin/main/full-stack-development.gif" alt="Masum Arifin" />
 
 🌱 I’m currently learning [Golang](https://golang.org/) And [DevOps](https://www.google.com/search?q=DevOps)
 
