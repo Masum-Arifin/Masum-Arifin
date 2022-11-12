@@ -8,10 +8,13 @@
 <h3 align="center">Web Specialist</h3>
 <br />
 <br />
+<p align="center"><img src="https://img.shields.io/github/followers/Masum-Arifin?label=Follow&style=social"/>
+<img src="https://github.com/Masum-Arifin)&nbsp;![Profile views](https://gpvc.arturio.dev/Masum-Arifin" /></p>
+
+
+<p>[![Github]()]()</p>
 
 <p align="center"><a href="https://app.daily.dev/Masum"><img src="https://api.daily.dev/devcards/af4e49452b1c49ff9bf84f65ff812206.png?r=j1n" width="400" alt="Masum Arifin's Dev Card"/></a></p>
-
-[![Github](https://img.shields.io/github/followers/Masum-Arifin?label=Follow&style=social)](https://github.com/Masum-Arifin)&nbsp;![Profile views](https://gpvc.arturio.dev/Masum-Arifin)
 
 🌱 I’m currently learning [Golang](https://golang.org/) And [DevOps](https://www.google.com/search?q=DevOps)
 
