@@ -15,7 +15,8 @@
 
 <p align="center"><a href="https://app.daily.dev/Masum"><img src="https://api.daily.dev/devcards/af4e49452b1c49ff9bf84f65ff812206.png?r=j1n" width="400" alt="Masum Arifin's Dev Card"/></a></p>
 
-<img align="right" width="400" src="https://raw.githubusercontent.com/Masum-Arifin/Masum-Arifin/main/full-stack-development.gif" alt="Masum Arifin" />
+<br/>
+<img align="right" width="550" src="https://raw.githubusercontent.com/Masum-Arifin/Masum-Arifin/main/full-stack-development.gif" alt="Masum Arifin" />
 
 🌱 I’m currently learning [Golang](https://golang.org/) And [DevOps](https://www.google.com/search?q=DevOps)
 
@@ -24,7 +25,7 @@
 📫 How to reach me: masumarifinbd@gmail.com
 
 ⚡ Fun fact **I Think i'm funny too :)**
-<br/><br/>
+<br/>
 
 #### :muscle: Things I am challenging myself with:
 
